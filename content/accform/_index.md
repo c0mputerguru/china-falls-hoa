@@ -22,4 +22,5 @@ or deny no later than 45 days after request is made (sooner, if possible).
 [Download Form](/documents/accform.pdf)
 
 Reference additional ACC guidelines:
+
 [Guidelines for Solar Panels](/documents/2018_01_solar_panel_guidelines.pdf) (Jan 2018)
