@@ -14,7 +14,7 @@ are considering to rent are subject to these rules.
 * [Assessment Collection Policy](../documents/collectionpolicy.pdf). Defines how
 assessments will be collected, including how and when late fees and other
 penalties will be applied. Includes SAMPLE letters of these notices.
-* [Fines Schedule/Right to Hearing](../documents/collectionpolicy.pdf). Describes
+* [Fines Schedule/Right to Hearing](../documents/rulesonfines.pdf). Describes
 how the Association handles violations of the CC&Rs and any Rules and
 Regulations, including how fines will be applied and hearing procedures for
 owners to dispute fines.
